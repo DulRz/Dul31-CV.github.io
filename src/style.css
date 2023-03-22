@@ -412,7 +412,7 @@
     padding: 0;
   }
   
-  footer h2{
+  .footer h2{
     float: right;
     padding: 5px 0;;
     color: rgb(105, 44, 3);

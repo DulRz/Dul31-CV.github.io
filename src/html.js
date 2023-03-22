@@ -6,5 +6,3 @@ function realizarAdopcion() {
 }
 //realizarAdopción se llama cuando se hace click en el boton adoptar y te dirige a la pag gracias.html
 document.getElementaryById("btn-adoptar").addEventListener("click",realizarAdopcion);
-
-// seleccionar el button VALIDAR
