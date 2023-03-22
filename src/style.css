@@ -235,7 +235,7 @@
   /*-----TARJETA DELANTERA-----*/
   .tarjeta .delantera {
     width:100%;
-    background: url(../src/images/bg-tarjeta/fondodelantera1.png);
+    background: url(https://raw.githubusercontent.com/Dul31/DEV006-card-validation/main/src/images/bg-tarjeta/fondodelantera1.png);
     background-size: cover;
   }
   
