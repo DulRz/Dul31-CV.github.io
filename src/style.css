@@ -15,7 +15,7 @@
   /*--ESTILO DE LA BARRA DE MENÚ DE TODOS LOS HTML--*/
   .header{
   border-bottom: 12px solid rgb(245, 100, 17);
-  background-image: url(../src/images/fondo_de_huellas.png);
+  background-image: url(https://raw.githubusercontent.com/Dul31/DEV006-card-validation/main/src/images/fondo_de_huellas.png);
   display: flex;
   justify-content: space-between;
   align-items: center;
