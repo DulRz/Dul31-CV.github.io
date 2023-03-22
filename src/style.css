@@ -284,7 +284,7 @@
   /*------ TARJETA TRASERA ------*/
 
   .trasera {
-    background: url(../src/images/bg-tarjeta/Ttrasera.png);
+    background: url(https://raw.githubusercontent.com/Dul31/DEV006-card-validation/main/src/images/bg-tarjeta/Ttrasera.png);
     background-size: cover;
     position: absolute;
     top: 0;
